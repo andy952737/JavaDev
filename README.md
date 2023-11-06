@@ -16,12 +16,3 @@ cd java_dev
 vim test.java
 javac test.java
 ```
-
-# init test.java
-```
-class test{
-		public static void main(String[] args){
-				System.out.println("Hello wordl");
-		}
-}
-```
