@@ -4,6 +4,9 @@
 # Download
 - https://www.oracle.com/tw/java/technologies/downloads/
 
+# IDE -- Eclipse
+- Eclipse IDE for Java and DSL Developers
+
 # Run init
 ```
 mkdir java_dev
