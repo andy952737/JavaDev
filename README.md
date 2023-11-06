@@ -3,6 +3,8 @@
 
 # Download
 - https://www.oracle.com/tw/java/technologies/downloads/
+- brew install --cask java
+- brew install --cask eclipse-java
 
 # IDE -- Eclipse
 - Eclipse IDE for Java and DSL Developers
